@@ -25,21 +25,21 @@ Options:
   <p align="left">
     <img src="https://github.com/weiyeyangde/Maze/blob/main/maze_20_20.png" title="Maze" style="width: 20%; height:auto;">
     <br><br>
-    <img src="https://github.com/weiyeyangde/Maze/blob/main/Maze/solved_maze_20_20.png" title="Solution" style="width: 20%; height:auto;">
+    <img src="https://github.com/weiyeyangde/Maze/blob/main/solved_maze_20_20.png" title="Solution" style="width: 20%; height:auto;">
   </p>
   
 - 50 x 50 maze and its solution
   <p align="left">
-    <img src="https://github.com/weiyeyangde/Maze/blob/main/Maze/maze_50_50.png" title="Maze" style="width: 30%; height:auto;">
+    <img src="https://github.com/weiyeyangde/Maze/blob/main/maze_50_50.png" title="Maze" style="width: 30%; height:auto;">
     <br><br>
-    <img src="https://github.com/weiyeyangde/Maze/blob/main/Maze/solved_maze_50_50.png" title="Solution" style="width: 30%; height:auto;">
+    <img src="https://github.com/weiyeyangde/Maze/blob/main/solved_maze_50_50.png" title="Solution" style="width: 30%; height:auto;">
   </p>
  
 - 100 x 100 maze and its solution
   <p align="left">
-    <img src="https://github.com/weiyeyangde/Maze/blob/main/Maze/maze_100_100.png" title="Maze" style="width: 50%; height:auto;">
+    <img src="https://github.com/weiyeyangde/Maze/blob/main/maze_100_100.png" title="Maze" style="width: 50%; height:auto;">
     <br><br>
-    <img src="https://github.com/weiyeyangde/Maze/blob/main/Maze/solved_maze_100_100.png" title="Solution" style="width: 50%; height:auto;">
+    <img src="https://github.com/weiyeyangde/Maze/blob/main/solved_maze_100_100.png" title="Solution" style="width: 50%; height:auto;">
   </p>
   
 ### High-level ideas
