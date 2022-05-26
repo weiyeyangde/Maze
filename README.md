@@ -1,4 +1,4 @@
-## Project2 - Maze
+## Maze
 Generates a rectangular maze with given number of rows and columns.
 
 ### Usage
